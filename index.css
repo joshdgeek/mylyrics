@@ -1,0 +1,24 @@
+body{
+    height: 100vh;
+  
+}
+
+.container{
+    min-height: 100vh;
+    background-color: black;
+    margin-bottom: 24px;
+}
+.lyrics{
+color:red;
+padding:10px;
+}
+.form{
+    
+}
+input{
+    margin: 9px;
+}
+#btn{
+display: flex;
+    justify-content: flex-start;
+}
